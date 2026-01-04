@@ -9,8 +9,8 @@ We obtain the datasets of historical vector contours and latest images close to 
 - Code
   - `python .dataset_generate_code\_Generate_dataset.py`
 - Dataset
-  - Simulated WhuDataset (https://drive.google.com/file/d/1vJlTqp8hDzncXYXQUI7_qIPb3Ms36D9o/view?usp=drive_link)
-  - Simulated AerialImageDataset(Vienna) (https://drive.google.com/file/d/1z2qJlTnITAgblorDv8Ituc0pw93iO22D/view?usp=drive_link)
+  - Simulated WhuDataset ([https://drive.google.com/file/d/1vJlTqp8hDzncXYXQUI7_qIPb3Ms36D9o/view?usp=drive_link](https://drive.google.com/file/d/1vJlTqp8hDzncXYXQUI7_qIPb3Ms36D9o/view?usp=sharing))
+  - Simulated AerialImageDataset(Vienna) ([https://drive.google.com/file/d/1z2qJlTnITAgblorDv8Ituc0pw93iO22D/view?usp=drive_link](https://drive.google.com/file/d/1z2qJlTnITAgblorDv8Ituc0pw93iO22D/view?usp=sharing))
 
 ## Getting Started
 We need to run our code under Python 3.10 and on a Windows system. You can start with the config.py file.
